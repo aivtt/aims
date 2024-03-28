@@ -64,7 +64,8 @@ All the results are stored into the directory `results`, which include:
   plots (subdirectory `properties`) of the candidate sequences (see new_sequences.txt) to support expert evaluation and selection of 
   sequences for further laboratory tests (see the article).
 
-  
+<br/>  
+<br/>  
  
 ![AIMS-architecture](imgs/AIMS_fig1.png)
 *Figure: Generating new candidate sequences*
